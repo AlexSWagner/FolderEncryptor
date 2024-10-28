@@ -12,7 +12,7 @@ A desktop application that provides secure folder encryption using AES encryptio
 ## Requirements
 - Python 3.x
 - tkinter (included with Python)
-- cryptography
+- cryptography >= 41.0.1
 
 To install required package:
 pip install cryptography
