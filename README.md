@@ -15,6 +15,7 @@ A desktop application that provides secure folder encryption using AES encryptio
 - cryptography >= 41.0.1
 
 To install required package:
+
 pip install cryptography==41.0.1
 
 ## Usage
