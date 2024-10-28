@@ -2,6 +2,9 @@
 
 A desktop application that provides secure folder encryption using AES encryption with PBKDF2 key derivation and unique salt generation.
 
+## Quick Start
+Download and run the executable from the [Releases](https://github.com/AlexSWagner/FolderEncryptor/releases) section.
+
 ## Features
 - Folder encryption/decryption using password-based security
 - User-friendly GUI interface
