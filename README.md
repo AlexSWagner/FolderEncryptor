@@ -15,7 +15,7 @@ Download and run the executable from the [Releases](https://github.com/AlexSWagn
 ## Requirements
 - Python 3.x
 - tkinter (included with Python)
-- cryptography >= 41.0.1
+- cryptography 41.0.1
 
 To install required package:
 
