@@ -31,4 +31,4 @@ pip install cryptography==41.0.1
 - AES encryption
 - PBKDF2 key derivation (100,000 iterations)
 - Unique salt generation for each operation
-- No stored keys - everything derived from password
+- No stored keys everything derived from password
