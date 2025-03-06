@@ -1,0 +1,4 @@
+cryptography==38.0.4
+py7zr>=0.20.0
+# tkinter is included with Python by default
+pillow>=9.0.0  # For enhanced GUI capabilities 
